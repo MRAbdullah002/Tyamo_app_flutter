@@ -1,5 +1,16 @@
-# Tyamo_app_flutter
-Tyamo is a Flutter-based mobile app integrated with Firebase, designed to provide a seamless user experience.
-The app includes essential features such as signup, login, and password recovery, along with a straightforward homepage.
-While the gallery section, add friend feature, and messaging functionality are currently non-functional, they are planned for future updates.
-Firebase integration ensures secure data storage and user authentication, making Tyamo a reliable and scalable platform for future enhancements.
+# tyamo
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
